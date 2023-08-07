@@ -34,6 +34,13 @@
 ><br>
 > While loop is a loop statement used for the repeated execution of the statements. It is preferred when the loop statement is required and a number of iterations are not defined. In case the condition is not known, it shows an error unlike for loop which will have infinite iterations.
 
+### Strings
+> 1. Immutable
+> 2. ordered data structure
+> 3. slicing
+> 4. 
+
+
 
 
 
