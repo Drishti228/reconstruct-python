@@ -45,7 +45,7 @@
 > 2. ordered data structure
 > 3. can have list inside a list
 > 4. can store multiple datatypes together
-> 5. Code implementation : attached -> List.ipynb
+> 5. Code implementation : attached -> Lists.ipynb
 
 
 
