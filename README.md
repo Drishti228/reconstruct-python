@@ -45,8 +45,13 @@
 > 2. ordered data structure
 > 3. can have list inside a list
 > 4. can store multiple datatypes together
-> 5. Code implementation : attached -> Lists.ipynb
+> 5. Code implementation : attached -> Lists, Tuples.ipynb
 
+### Tuples
+> 1. Immutable
+> 2. cannot add, update or delete (prefered when we dont want the value to change)
+> 3. ordered data strucutre
+> 4. Code -> Lists, Tuples.ipynb
 
 
 
