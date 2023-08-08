@@ -36,9 +36,16 @@
 
 ### Strings
 > 1. Immutable
+> 2. ordered data structure (indexing, slicing - are possible)
+> 3. if we have a word s = python, then s[0]=p and likewise s[1]=y.
+> 4. Code implementation : attached -> Strings.ipynb
+
+### Lists
+> 1. mutable
 > 2. ordered data structure
-> 3. slicing
-> 4. 
+> 3. can have list inside a list
+> 4. can store multiple datatypes together
+> 5. Code implementation : attached -> List.ipynb
 
 
 
