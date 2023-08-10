@@ -60,6 +60,15 @@
 > 4. keys should be immutable
 > 5. Code : Dictionary.ipynb
 
+### Set
+> 1. unordered
+> 2. mutable
+> 3. union
+> 4. intersection
+> 5. elements should be unique
+> 6. immutable elements
+
+
 
 
 
