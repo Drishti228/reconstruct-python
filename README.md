@@ -53,6 +53,13 @@
 > 3. ordered data strucutre
 > 4. Code -> Lists, Tuples.ipynb
 
+### Dictionary
+> 1. mutable
+> 2. unordered
+> 3. keys should be unique
+> 4. keys should be immutable
+> 5. Code : Dictionary.ipynb
+
 
 
 
